@@ -1,7 +1,1 @@
-<<<<<< HEAD
-gelo git
-add new line here
-=======
-gelllo git
-
->>>>>>> branch1
+gelo git1
