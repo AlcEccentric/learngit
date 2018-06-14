@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<> TAIL
 test1
 =======
 test1h
