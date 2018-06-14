@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 gelo git
 add new line here
 =======
