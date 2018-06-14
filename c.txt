@@ -1,4 +1,4 @@
-> branch3
+>>>>> branch3
 test1
 =======
 test1h
