@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 gelo git
 add new line here
-=======
-gello git
->>>>>>> branch1
