@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+>>>>> branch3
+=======
+ branch3
+>>>>>>> b6
+test1
+=======
+test1h
+>>>>>>> branch1
+=======
+test1here
+>>>>>>> branch1
