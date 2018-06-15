@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-gelo git1
-=======
-elllo git
-
->>>>>>> branch1
